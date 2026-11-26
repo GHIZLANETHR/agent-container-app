@@ -1,4 +1,6 @@
 package org.ghizlane.display;
 
-public class VGA {
+public interface VGA {
+
+    void print(String data);
 }
