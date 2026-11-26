@@ -1,4 +1,8 @@
 package org.ghizlane.observer;
 
-public class Observer {
+import org.ghizlane.model.Event;
+
+public interface Observer {
+
+    void update(Event event);
 }
