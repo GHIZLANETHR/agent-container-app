@@ -1,4 +1,5 @@
 package org.ghizlane.display;
 
-public class HDMI {
+public interface HDMI {
+    void display(String message);
 }
