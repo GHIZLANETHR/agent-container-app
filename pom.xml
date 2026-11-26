@@ -11,8 +11,8 @@
     <groupId>org.ghizlane</groupId>
     <artifactId>agent-container-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>agent-container-app</name>
-    <description>agent-container-app</description>
+    <name>agent-org.ghizlane.agentcontainerapp.container-app</name>
+    <description>agent-org.ghizlane.agentcontainerapp.container-app</description>
     <url/>
     <licenses>
         <license/>
